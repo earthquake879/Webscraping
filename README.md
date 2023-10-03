@@ -1,1 +1,2 @@
 # Webscraping
+The webscraping code was used to generate a csv file made of 3 columns: name, description, and link to the appropriate rotten tomatoes page for the show, and the generated csv can be found here: https://github.com/earthquake879/Webscraping/blob/master/BestComedyShows.csv
